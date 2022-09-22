@@ -24,7 +24,6 @@ Screen recording of Team Management Application
 
 ![](Untitled_%20Sep%2021,%202022%2010_03%20PM.gif) ![](Untitled_%20Sep%2021,%202022%2010_30%20PM.gif)![] ![](Untitled_%20Sep%2021,%202022%2010_36%20PM.gif)
 ![](Screen%20capture.PNG)
-Link to Screen Recording
 
 # License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
