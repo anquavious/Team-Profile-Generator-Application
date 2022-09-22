@@ -24,7 +24,13 @@ Screen recording of Team Management Application
 
 ![](Untitled_%20Sep%2021,%202022%2010_03%20PM.gif) ![](Untitled_%20Sep%2021,%202022%2010_30%20PM.gif)![] ![](Untitled_%20Sep%2021,%202022%2010_36%20PM.gif)
 ![](Screen%20capture.PNG)
+Links to walkthrough videos of Team Profile Generator Application
 
+https://drive.google.com/file/d/1hFSKxLr_svL5Sef0OOmkuZLU5mJsFzqb/view
+
+https://drive.google.com/file/d/12Pi8tYcDHnnDa5JlVVnxoPtbCLDQ3m1e/view
+
+https://drive.google.com/file/d/1EgHiO1ttiNq8pq8Wlv8cHsZWsooVzwl7/view
 # License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <br>
